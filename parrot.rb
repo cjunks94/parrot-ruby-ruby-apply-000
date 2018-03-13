@@ -3,9 +3,9 @@
 def parrot(*str)
   newstr="Squawk!"
   if str == "Pretty bird!"
-  puts str
-  return str
-else
-  puts newstr
-  return newstr
+   puts str
+    return str
+  else
+   puts newstr
+   return newstr
 end
