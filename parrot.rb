@@ -6,3 +6,4 @@ def parrot(str="Squawk!")
     puts str
     return str
 end
+#originally was trying to use optinial arguement.
