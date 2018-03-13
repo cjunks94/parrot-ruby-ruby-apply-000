@@ -8,4 +8,5 @@ def parrot(*str)
   else
     puts newstr
     return newstr
+  end
 end
